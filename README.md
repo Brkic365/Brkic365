@@ -13,4 +13,4 @@ Contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brkic365)](https://git.io/streak-stats)
 
 
-[![Portfolio](/text.gif)](https://www.polymindsweb.com/)
+[![Portfolio](/text.gif)](https://www.brki.cc/)
