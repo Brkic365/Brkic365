@@ -4,7 +4,7 @@
   <br/>
 
   <a href="https://your-new-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Launch_Portfolio-Visit_OS-3b82f6?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Launch_Portfolio-Learn_More-3b82f6?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -27,10 +27,22 @@ I am a 3rd-year Computer Science student at **TVZ (Zagreb)** with a passion for 
 
 ---
 
-### 🛠️ The Stack
+### 🏆 Achievements
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,python,unity,c,git,figma&perline=9" />
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Brkic365&theme=darkhub&no-frame=true&row=1&column=7" width="100%" />
+  </a>
+</div>
+
+<br/>
+
+### 📊 Activity Status
+
+<div align="center">
+  <a href="https://github.com/Brkic365">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brkic365&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=3b82f6&currStreakLabel=3b82f6" />
+  </a>
 </div>
 
 <br/>
