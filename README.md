@@ -27,16 +27,6 @@ I am a 3rd-year Computer Science student at **TVZ (Zagreb)** with a passion for 
 
 ---
 
-### 🏆 Achievements
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Brkic365&theme=darkhub&no-frame=true&row=1&column=7" width="100%" />
-  </a>
-</div>
-
-<br/>
-
 ### 📊 Activity Status
 
 <div align="center">
@@ -47,11 +37,7 @@ I am a 3rd-year Computer Science student at **TVZ (Zagreb)** with a passion for 
 
 <br/>
 
-### 📊 GitHub Stats
-
+### 🐍 My Contribution Snake
 <div align="center">
-  <a href="https://github.com/Brkic365">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brkic365&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brkic365&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
+  <img src="https://github.com/Brkic365/Brkic365/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
