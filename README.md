@@ -22,7 +22,7 @@
 I am a 3rd-year Computer Science student at **TVZ (Zagreb)** with a passion for building interactive, high-performance web applications. I specialize in the **Next.js** ecosystem and modern frontend architecture.
 
 - 🔭 I’m currently building **VectraXR** (A B2B platform for 3D/AR product visualization).
-- 💻 Core Stack: **Next.js, TypeScript, Tailwind CSS.**
+- 💻 Core Stack: **Next.js, TypeScript, Tailwind CSS / SASS.**
 - 🎨 Interests: **React Three Fiber, WebGL, and UI/UX Design.**
 
 ---
