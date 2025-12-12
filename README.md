@@ -35,16 +35,6 @@ I am a 3rd-year Computer Science student at **TVZ (Zagreb)** with a passion for 
 
 <br/>
 
-### 📊 Activity Status
-
-<div align="center">
-  <a href="https://github.com/Brkic365">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brkic365&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=3b82f6&currStreakLabel=3b82f6" />
-  </a>
-</div>
-
-<br/>
-
 ### 🐍 Contribution Graph
 <div align="center">
   <img src="https://github.com/Brkic365/Brkic365/blob/output/github-contribution-grid-snake-dark.svg" />
