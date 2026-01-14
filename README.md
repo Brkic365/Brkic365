@@ -3,13 +3,13 @@
   
   <br/>
 
-  <a href="https://your-portfolio-link.com">
+  <a href="https://www.antoniobrkic.com/">
     <img src="https://img.shields.io/badge/Launch_Portfolio-Visit_OS-3b82f6?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:antonio@vectraxr.com">
+  <a href="mailto:contact@antoniobrkic.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
