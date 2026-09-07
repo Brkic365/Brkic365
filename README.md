@@ -4,7 +4,7 @@
   <br/>
 
   <a href="https://www.antoniobrkic.com/">
-    <img src="https://img.shields.io/badge/Launch_Portfolio-Visit_OS-3b82f6?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Launch_Portfolio-Learn_More-3b82f6?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/antonio-brkic">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
